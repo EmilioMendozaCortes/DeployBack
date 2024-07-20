@@ -1,0 +1,6 @@
+uvicorn==0.15.0
+fastapi==0.70.0
+sqlalchemy==1.4.27
+pymysql==1.0.2
+cryptography==3.4.7
+pyjwt==2.1.0
